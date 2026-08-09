@@ -4,7 +4,7 @@
    height="300"
    version="1.1"
    id="svg24"
-   sodipodi:docname="bump copy.svg"
+   sodipodi:docname="bump.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,15 +21,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.477163"
-     inkscape:cx="667.83422"
-     inkscape:cy="182.78281"
-     inkscape:window-width="1264"
-     inkscape:window-height="645"
-     inkscape:window-x="340"
-     inkscape:window-y="82"
+     inkscape:zoom="0.98666366"
+     inkscape:cx="384.62955"
+     inkscape:cy="171.28431"
+     inkscape:window-width="1352"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g6" />
+     inkscape:current-layer="labels" />
   <rect
      width="900"
      height="300"
@@ -268,15 +268,15 @@
              style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
              id="text19">Disc</text>
           <text
-             x="677.17511"
-             y="234.18591"
+             x="677.63995"
+             y="233.95886"
              text-anchor="middle"
              alignment-baseline="middle"
              style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
              id="text20">Download</text>
           <text
-             x="596.54486"
-             y="251.31021"
+             x="597.3186"
+             y="251.77701"
              text-anchor="middle"
              alignment-baseline="middle"
              style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
